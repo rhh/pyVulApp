@@ -1,6 +1,6 @@
 Django==3.2
 alembic==1.5.8
-Babel==2.9.0
+Babel==2.9.1
 bitarray==2.0.1
 bleach==3.3.0
 boto3==1.17.62
