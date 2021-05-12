@@ -11,7 +11,7 @@ dill==0.3.3
 docutils==0.17.1
 elasticsearch==7.12.1
 enum34==1.1.10
-Flask==1.1.2
+Flask==2.0.0
 Flask-Admin==1.5.8
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.4.4
