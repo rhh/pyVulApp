@@ -7,7 +7,7 @@ boto3==1.17.93
 botocore==1.20.93
 Cython==0.29.23
 decorator==5.0.9
-dill==0.3.3
+dill==0.3.4
 docutils==0.17.1
 elasticsearch==7.13.1
 enum34==1.1.10
