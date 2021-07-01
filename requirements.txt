@@ -1,4 +1,4 @@
-Django==3.2.4
+Django==3.2.5
 alembic==1.6.5
 Babel==2.9.1
 bitarray==2.1.3
