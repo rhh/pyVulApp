@@ -3,8 +3,8 @@ alembic==1.6.5
 Babel==2.9.1
 bitarray==2.2.4
 bleach==3.3.1
-boto3==1.18.11
-botocore==1.21.11
+boto3==1.18.12
+botocore==1.21.12
 Cython==0.29.24
 decorator==5.0.9
 dill==0.3.4
